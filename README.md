@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz Go Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![github](images/repo.jpg)
+
 ## Installation
 Öncelikle projeyi clonelayın.
 
